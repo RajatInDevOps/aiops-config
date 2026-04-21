@@ -1,24 +1,62 @@
-name: Deploy
+name: Deploy to EC2
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   deploy:
+    name: Deploy Application
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+      # Step 1: Checkout code (GitHub side)
+      - name: Checkout Code
+        uses: actions/checkout@v3
 
-    - name: Deploy
-      uses: appleboy/ssh-action@v1.0.0
-      with:
-        host: ${{ secrets.EC2_IP }}
-        username: ubuntu
-        key: ${{ secrets.SSH_KEY }}
-        script: |
-          cd /home/ubuntu/aiops-app || git clone https://github.com/RajatInDevOps/aiops-config.git aiops-app && cd aiops-config
-          git pull origin main
-          pkill node || true
-          node app.js &
+      # Step 2: Deploy via SSH
+      - name: SSH into EC2 and Deploy
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.EC2_IP }}
+          username: ubuntu
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            set -e
+
+            echo "🚀 Starting deployment..."
+
+            cd /home/ubuntu
+
+            # Clone repo if not exists
+            if [ ! -d "aiops-config" ]; then
+              echo "📥 Repository not found. Cloning..."
+              git clone https://github.com/RajatInDevOps/aiops-config.git
+            fi
+
+            # Verify repo exists
+            if [ ! -d "aiops-config" ]; then
+              echo "❌ Repository setup failed!"
+              exit 1
+            fi
+
+            cd aiops-config
+
+            # Pull latest code
+            echo "🔄 Pulling latest code..."
+            git pull origin main
+
+            # Install dependencies
+            echo "📦 Installing dependencies..."
+            npm install
+
+            # Stop existing app
+            echo "🛑 Stopping existing app..."
+            pkill node || true
+
+            # Start app in background
+            echo "▶️ Starting application..."
+            nohup node app.js > app.log 2>&1 &
+
+            echo "✅ Deployment completed successfully!"
