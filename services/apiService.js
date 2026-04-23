@@ -3,18 +3,20 @@ const config = require("../config/config");
 
 async function fetchUsers() {
     try {
-        console.log("📡 Calling API:", config.API.BASE_URL);
+        console.log("INFO: Calling API:", config.API.BASE_URL);
 
         const response = await axios.get(
             `${config.API.BASE_URL}/users`,
             { timeout: config.API.TIMEOUT }
         );
 
+        console.log("INFO: API success");
         return response.data;
 
     } catch (err) {
-        console.error("ERROR: API call failed");
+        console.error("ERROR: API_CALL_FAILED");
         console.error("ERROR_MESSAGE:", err.message);
+        console.error("ERROR_TYPE:", err.code || "UNKNOWN");
         console.error("CONFIG:", JSON.stringify(config.API));
 
         throw err;
