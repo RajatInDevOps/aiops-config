@@ -1,5 +1,14 @@
 const express = require("express");
-const config = require("./config/config");
+
+let config;
+
+try {
+    config = require("./config/config");
+} catch (err) {
+    console.error("ERROR: Config loading failed:", err.message);
+    process.exit(1);
+}
+
 const { fetchUsers } = require("./services/apiService");
 
 const app = express();
@@ -9,8 +18,8 @@ app.get("/", async (req, res) => {
         const users = await fetchUsers();
         res.send(`✅ Users fetched: ${users.length}`);
     } catch (err) {
-        console.error("ERROR: Application failure due to config issue");
-        res.status(500).send("Application failed due to config issue");
+        console.error("ERROR: Application failure", err.message);
+        res.status(500).send("Application failed");
     }
 });
 
