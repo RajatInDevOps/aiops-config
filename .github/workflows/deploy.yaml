@@ -44,19 +44,19 @@ jobs:
             cd aiops-config
 
             # Pull latest code
-            echo "🔄 Pulling latest code..."
+            echo "Pulling latest code..."
             git pull origin main
 
             # Install dependencies
-            echo "📦 Installing dependencies..."
+            echo "Installing dependencies..."
             npm install
 
             # Stop existing app
-            echo "🛑 Stopping existing app..."
+            echo "Stopping existing app..."
             pkill node || true
 
             # Start app in background
-            echo "▶️ Starting application..."
+            echo "tarting application..."
             nohup node app.js > app.log 2>&1 &
 
-            echo "✅ Deployment completed successfully!"
+            echo "Deployment completed successfully!"
