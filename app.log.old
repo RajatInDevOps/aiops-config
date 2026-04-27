@@ -1,0 +1,431 @@
+nohup: ignoring input
+INFO: CURRENT_COMMIT: 2daa510
+INFO: PREVIOUS_COMMIT: 94ec8aa
+INFO: App running on port 3000
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
+INFO: Calling API: https://wrong-api-url.com
+ERROR: API_CALL_FAILED
+ERROR_MESSAGE: getaddrinfo ENOTFOUND wrong-api-url.com
+ERROR_TYPE: ENOTFOUND
+CONFIG: {"BASE_URL":"https://wrong-api-url.com","TIMEOUT":2000}
+ERROR: APPLICATION_FAILURE
+ERROR_REASON: getaddrinfo ENOTFOUND wrong-api-url.com
