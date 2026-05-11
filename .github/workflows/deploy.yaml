@@ -10,6 +10,7 @@ deploy:
 name: Deploy Application
 runs-on: ubuntu-latest
 
+```
 steps:
   - name: Checkout Code
     uses: actions/checkout@v3
@@ -27,7 +28,6 @@ steps:
 
         cd /home/ubuntu
 
-        # Clone repository if it does not exist
         if [ ! -d "aiops-config" ]; then
           echo "Repository not found. Cloning..."
           git clone https://github.com/RajatInDevOps/aiops-config.git
@@ -39,7 +39,6 @@ steps:
         rm -f app.log
         git clean -fd
 
-        # ✅ FIX: deterministic sync (NO git pull)
         echo "Syncing latest code..."
         git fetch origin
         git reset --hard origin/main
@@ -70,3 +69,4 @@ steps:
         fi
 
         echo "Deployment completed successfully"
+```
