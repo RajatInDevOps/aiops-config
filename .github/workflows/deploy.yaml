@@ -27,7 +27,7 @@ jobs:
 
             cd /home/ubuntu
 
-            # Clone repository if it does not exist
+            # Clone repository if it does not existt
             if [ ! -d "aiops-config" ]; then
               echo "Repository not found. Cloning..."
               git clone https://github.com/RajatInDevOps/aiops-config.git
